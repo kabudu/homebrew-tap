@@ -4,15 +4,15 @@ class Tokenscavenger < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/kabudu/token-scavenger/releases/download/v0.6.0/tokenscavenger-v0.6.0-aarch64-apple-darwin.zip"
-      sha256 "e131f0632f411eea2fbd5bdf4c15d0f2bcc4f11bc374a7c39ab002cd14d33cfc"
+      url "https://github.com/kabudu/token-scavenger/releases/download/v0.6.1/tokenscavenger-v0.6.1-aarch64-apple-darwin.zip"
+      sha256 "53208772e5d75e46ef4c4ca83341dfbf9ae23ed471f1572e0292b5bc082359e1"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/kabudu/token-scavenger/releases/download/v0.6.0/tokenscavenger-v0.6.0-x86_64-unknown-linux-gnu"
-      sha256 "0d261bfaf095a91994e7d6d5a4f5a082294473ccecb05648773821cf7ee9fa09"
+      url "https://github.com/kabudu/token-scavenger/releases/download/v0.6.1/tokenscavenger-v0.6.1-x86_64-unknown-linux-gnu"
+      sha256 "fe329a259310e184ada97f5b700c89361f45997dbe082629c19da563d242e5d4"
     end
   end
 
